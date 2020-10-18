@@ -1,5 +1,9 @@
 # aniwene.com
-This is my official website and you are welcome to contribute.
+This is my official website.
 
-**Disclaimer**
-This github projects is owned by Aniwene A Madolomani and Ghirex Technologies LTD and we reserve the right to remove it from being public anytime or remove completely from github without notice. 
+## PROJECT DETAILS
+*Project ID: *
+*Project Author: Aniwene Madolomani*
+*Project Owner: *
+*Project Start: 18/10/2020 1:44PM GMT-TZ*
+*Project End: *
